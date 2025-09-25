@@ -1242,3 +1242,10 @@ angle_detection.py        # 角度检测算法
 - 感谢所有为本项目做出贡献的开发者
 
 ##  需要完整项目代码请联系qq：2122384040
+
+
+
+
+
+<img width="1206" height="993" alt="edb11e9ef9cdd5af2de783c40b05b67d" src="https://github.com/user-attachments/assets/d1f8d084-b497-4539-8a2d-76d29b819183" />
+
